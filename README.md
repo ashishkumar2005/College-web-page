@@ -1,5 +1,5 @@
 ## Best for:
-- First-year submissions
+- First-Sem submissions
 - College practicals
 - GitHub beginner profile
 - Resume starter project
